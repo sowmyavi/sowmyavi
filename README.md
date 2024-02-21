@@ -7,7 +7,7 @@ Hi, I'm Sowmya, an MS in Business Analytics student with over 3+ years of experi
 - **Project Management Leadership**: Demonstrated success in steering projects to completion, aligning with strategic objectives and exceeding stakeholder expectations.
 
 ## Professional Highlights:
-- Student Strategy & Plannning Analyst - CSUEB, CA (Oct 2023 - Present)
+- Student Strategy & Planning Analyst - CSUEB, CA (Oct 2023 - Present)
 - Project Lead - HomeLane, India (May 2021 - Dec 2022)
 - Data Analyst - Edunock, India (June 2020 - April 2021)
 - Project Intern - SpaceMatrix, India (Mar 2020 - May 2020)
