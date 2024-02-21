@@ -1,4 +1,4 @@
-Hi, I'm Sowmya, an MS in Business Analytics student with a proven track record in Data Analysis and Project Management. My journey is marked by a blend of analytical rigor and leadership, underscored by a commitment to excellence that led to receiving a high NPS achiever award and a prestigious fellowship at California State University, East Bay.
+Hi, I'm Sowmya, an MS in Business Analytics student with over 3+ years of experience in Data Analysis and Project Management. My journey is marked by a blend of analytical rigor and leadership, underscored by a commitment to excellence that led to receiving a high NPS achiever award and a prestigious fellowship at California State University, East Bay.
 
 ## What Makes Me Stand Out:
 - **Award-Winning Performance**: Celebrated for achieving exceptionally high Net Promoter Scores, reflecting my dedication to quality and ability to drive customer satisfaction through data-driven insights.
@@ -7,8 +7,10 @@ Hi, I'm Sowmya, an MS in Business Analytics student with a proven track record i
 - **Project Management Leadership**: Demonstrated success in steering projects to completion, aligning with strategic objectives and exceeding stakeholder expectations.
 
 ## Professional Highlights:
-- Spearheaded analytics projects that informed strategic decision-making, contributing to improved operational efficiency and competitive advantage.
-- Championed project management initiatives that enhanced workflow efficiency, team collaboration, and project delivery timelines.
+- Student Strategy & Plannning Analyst - CSUEB, CA ( Oct 2023 - Present)
+- Project Lead - HomeLane, India (May 2021 - Dec 2022)
+- Data Analyst - Edunock, India (June 2020 - April 2021)
+- Project Intern - SpaceMatrix, India (Mar 2020 - May 2020)
 
 
 ## Future Aspirations:
