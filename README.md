@@ -1,4 +1,4 @@
-Hi, I'm Sowmya, an MS in Business Analytics student with over 3+ years of experience in Data Analysis and Project Management. My journey is marked by a blend of analytical rigor and leadership, underscored by a commitment to excellence that led to receiving a high NPS achiever award and a prestigious fellowship at California State University, East Bay.
+Hi, I'm Sowmya, an MS in Business Analytics student with over 3+ years of experience in Data Analysis, Engineering, Machine Learning and Project Management. My journey is marked by a blend of analytical rigor and leadership, underscored by a commitment to excellence that led to receiving a high NPS achiever award and a prestigious fellowship at California State University, East Bay.
 
 ## What Makes Me Stand Out:
 - **Award-Winning Performance**: Celebrated for achieving exceptionally high Net Promoter Scores, reflecting my dedication to quality and ability to drive customer satisfaction through data-driven insights.
@@ -8,7 +8,7 @@ Hi, I'm Sowmya, an MS in Business Analytics student with over 3+ years of experi
 
 ## Professional Highlights:
 - Student Strategy Analyst - CSUEB, CA (Oct 2023 - Present)
-- Data Analytics, Engineer  - Livspace, India (May 2022 - Dec 2022)
+- Data Analytics, Engineer- ML  - Livspace, India (May 2022 - Dec 2022)
 - Budget Analytics, Business Intelligence - HomeLane, India (June 2020 - April 2022)
 - Project Intern - SpaceMatrix, India (Mar 2020 - May 2020)
 
