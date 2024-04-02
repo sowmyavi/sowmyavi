@@ -10,7 +10,7 @@ Hi, I'm Sowmya, an MS in Business Analytics student with over 3+ years of experi
 - Student Strategy Analyst - CSUEB, CA (Oct 2023 - Present)
 - Data Analytics, Engineer- ML  - Livspace, India (May 2022 - Dec 2022)
 - Budget Analytics, Business Intelligence - HomeLane, India (June 2020 - April 2022)
-- Project Intern - SpaceMatrix, India (Mar 2020 - May 2020)
+- Strategy Analyst Intern - SpaceMatrix, India (Mar 2020 - May 2020)
 
 ## Future Aspirations:
 I'm keen to apply my data analysis, business strategy, and project management skills in roles that drive business growth and innovation. Open to opportunities that challenge me and foster my professional development.
