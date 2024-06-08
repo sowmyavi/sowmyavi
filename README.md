@@ -6,11 +6,7 @@ Hi, I'm Sowmya, an MS in Business Analytics student with over 3+ years of experi
 - **Data Analysis Expertise**: Proficient in leveraging tools like Python, R, SQL, and visualization technologies (Tableau, Power BI) to unearth and communicate actionable insights from complex data sets.
 - **Project Management Leadership**: Demonstrated success in steering projects to completion, aligning with strategic objectives and exceeding stakeholder expectations.
 
-## Professional Highlights:
-- Student Strategy Analyst - CSUEB, CA (Oct 2023 - Present)
-- Data Science, Engineer- ML  - Livspace, India (May 2022 - Dec 2022)
-- Business Intelligence Engineer - HomeLane, India (June 2020 - April 2022)
-- Strategy Analyst Intern - SpaceMatrix, India (Mar 2020 - May 2020)
+
 
 ## Future Aspirations:
 I'm keen to apply my data analysis, machine learning, business strategy, and project management skills in roles that drive business growth and innovation. Open to opportunities that challenge me and foster my professional development.
